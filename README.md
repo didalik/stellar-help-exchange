@@ -1,4 +1,4 @@
-# Rules of engagement for the takers
+# Rules of engagement for our takers
 
 All our makes are listed here.
 
