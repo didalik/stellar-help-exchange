@@ -17,3 +17,9 @@ Signing bonus HEXA 1000 + (job done) * (hourly rate).
 ## Stellar HEX: PARTNERS WELCOME
 
 Signing bonus HEXA 1000 + profit / 2.
+
+# Automated self-test (Stellar TESTNET only)
+
+The TESTNET version of this program embeds an automated self-test. Run it to introduce yourself to the program. 
+
+TODO If you already have a HEX account on MAINNET, run it to earn some HEXA!
