@@ -22,4 +22,8 @@ Signing bonus HEXA 1000 + profit / 2.
 
 The TESTNET version of this program embeds an automated self-test. Run it to familiarize yourself with the program. 
 
+Test configurations:
+- default: create a new user;
+- custom: work with the existing user.
+
 TODO If you already have a HEX account on MAINNET, run the self-test to earn some HEXA!
