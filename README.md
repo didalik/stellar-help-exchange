@@ -6,17 +6,31 @@ All our makes are listed here.
 
 Automated Integration Modeling by ДA&K. Inquiry fee HEXA 10.
 
+This is an offer.
+
 ## Stellar HEX: FOR SALE
 
 Full or partial ownership. Inquiry fee HEXA 100.
+
+This is an offer.
 
 ## Stellar HEX: HELP WANTED
 
 Signing bonus HEXA 1000 + (job done) * (hourly rate).
 
+This is a request.
+
 ## Stellar HEX: PARTNERS WELCOME
 
 Signing bonus HEXA 1000 + profit / 2.
+
+This is a request.
+
+## Stellar HEX: TESTERS WANTED
+
+Signing bonus HEXA 10 + #(tests run) * rate.
+
+This is a request.
 
 # Automated self-test (Stellar TESTNET only)
 
