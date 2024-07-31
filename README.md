@@ -26,9 +26,9 @@ Signing bonus HEXA 1000 + profit / 2.
 
 This is a request.
 
-## Stellar HEX: TESTERS WANTED
+## Stellar HEX: AGENTS WANTED
 
-Signing bonus HEXA 10 + #(tests run) * rate.
+Signing bonus HEXA 10 + #(jobs run) * rate.
 
 This is a request.
 
