@@ -41,3 +41,9 @@ Test configurations:
 - custom: work with the existing user.
 
 TODO If you already have a HEX account on MAINNET, run the self-test to earn some HEXA!
+
+## Stellar HEX CODE REVIEW WANTED
+
+Paying HEXA 5000.
+
+This is a request.
